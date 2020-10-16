@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Kim-EunKyu/movie-app-list/static/css/main.2efd7ce3.chunk.css",
-    "main.js": "/Kim-EunKyu/movie-app-list/static/js/main.dac0ce3c.chunk.js",
-    "main.js.map": "/Kim-EunKyu/movie-app-list/static/js/main.dac0ce3c.chunk.js.map",
-    "runtime-main.js": "/Kim-EunKyu/movie-app-list/static/js/runtime-main.322eee24.js",
-    "runtime-main.js.map": "/Kim-EunKyu/movie-app-list/static/js/runtime-main.322eee24.js.map",
-    "static/js/2.11a22306.chunk.js": "/Kim-EunKyu/movie-app-list/static/js/2.11a22306.chunk.js",
-    "static/js/2.11a22306.chunk.js.map": "/Kim-EunKyu/movie-app-list/static/js/2.11a22306.chunk.js.map",
-    "index.html": "/Kim-EunKyu/movie-app-list/index.html",
-    "precache-manifest.304b40c4bed82e251b644fa15b6513b9.js": "/Kim-EunKyu/movie-app-list/precache-manifest.304b40c4bed82e251b644fa15b6513b9.js",
-    "service-worker.js": "/Kim-EunKyu/movie-app-list/service-worker.js",
-    "static/css/main.2efd7ce3.chunk.css.map": "/Kim-EunKyu/movie-app-list/static/css/main.2efd7ce3.chunk.css.map",
-    "static/js/2.11a22306.chunk.js.LICENSE.txt": "/Kim-EunKyu/movie-app-list/static/js/2.11a22306.chunk.js.LICENSE.txt"
+    "main.css": "/movie-app-list/static/css/main.2efd7ce3.chunk.css",
+    "main.js": "/movie-app-list/static/js/main.dac0ce3c.chunk.js",
+    "main.js.map": "/movie-app-list/static/js/main.dac0ce3c.chunk.js.map",
+    "runtime-main.js": "/movie-app-list/static/js/runtime-main.cc170105.js",
+    "runtime-main.js.map": "/movie-app-list/static/js/runtime-main.cc170105.js.map",
+    "static/js/2.11a22306.chunk.js": "/movie-app-list/static/js/2.11a22306.chunk.js",
+    "static/js/2.11a22306.chunk.js.map": "/movie-app-list/static/js/2.11a22306.chunk.js.map",
+    "index.html": "/movie-app-list/index.html",
+    "precache-manifest.42686e8de8b0af7de4116f4eb3faa21f.js": "/movie-app-list/precache-manifest.42686e8de8b0af7de4116f4eb3faa21f.js",
+    "service-worker.js": "/movie-app-list/service-worker.js",
+    "static/css/main.2efd7ce3.chunk.css.map": "/movie-app-list/static/css/main.2efd7ce3.chunk.css.map",
+    "static/js/2.11a22306.chunk.js.LICENSE.txt": "/movie-app-list/static/js/2.11a22306.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.322eee24.js",
+    "static/js/runtime-main.cc170105.js",
     "static/js/2.11a22306.chunk.js",
     "static/css/main.2efd7ce3.chunk.css",
     "static/js/main.dac0ce3c.chunk.js"
